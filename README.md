@@ -1,2 +1,2 @@
-# kurizen.github.io
-print("This is just a test server")
+#Kurizen here
+collab with Arap
